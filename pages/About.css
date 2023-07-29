@@ -1,0 +1,35 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Almarai', sans-serif;
+}
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background-color: #E6E6E6;
+}
+.Main-container {
+    width: 100%;
+    margin: 0 auto;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    letter-spacing: 2px;
+}
+.Main-container .fa{
+    font-size: 80px;
+    margin: 20px;
+}
+h1{
+    font-weight: 300;
+    text-align: center;
+    color: #707070;;
+}
+a{
+    text-decoration: none;
+    color: #1E1E1E;
+}
+
