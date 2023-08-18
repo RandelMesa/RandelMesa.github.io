@@ -1,0 +1,18 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Almarai', sans-serif;
+}
+body{
+    background-color: #1E1E1E;
+    letter-spacing: 2px;
+}
+p{
+	margin: 0 auto;
+	height: 100vh;
+	display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ffe539;
+    font-size: 25px;
+}
